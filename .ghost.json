@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": " https://imperativa.id",
-    "contentApiKey": " 031bcd38a3e82b6e25119130a2"
+    "apiUrl": "https://imperativa.id",
+    "contentApiKey": "031bcd38a3e82b6e25119130a2"
   },
   "production": {
-    "apiUrl": " https://imperativa.id",
-    "contentApiKey": " 031bcd38a3e82b6e25119130a2"
+    "apiUrl": "https://imperativa.id",
+    "contentApiKey": "031bcd38a3e82b6e25119130a2"
   }
 }
